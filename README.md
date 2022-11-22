@@ -8,6 +8,7 @@ SG: Saúl García 2183042802
 
 AG: Alexander Gómez 2193076909
 
+Investigo el concepto señales periodicas,  longitud de onda, amplitud y realizo cada uno de sus respectivos codigos.
 
 AH: Aldo Hernández 2193035908
 
