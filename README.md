@@ -10,5 +10,6 @@ AG: Alexander Gómez 2193076909
 
 
 AH: Aldo Hernández 2193035908
+
 Investigo la definicion de frecuencia, fase y se realizo el codigo de cada uno.
 Explicacion de los conceptos de ancho de banda, Transformada de fourier y aspectro de frecuencia.
